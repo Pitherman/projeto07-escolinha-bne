@@ -1,0 +1,15 @@
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\bin\Debug\net7.0\Teste07.exe
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\bin\Debug\net7.0\Teste07.deps.json
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\bin\Debug\net7.0\Teste07.runtimeconfig.json
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\bin\Debug\net7.0\Teste07.dll
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\bin\Debug\net7.0\Teste07.pdb
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\Teste07.csproj.AssemblyReference.cache
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\Teste07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\Teste07.AssemblyInfoInputs.cache
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\Teste07.AssemblyInfo.cs
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\Teste07.csproj.CoreCompileInputs.cache
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\Teste07.dll
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\refint\Teste07.dll
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\Teste07.pdb
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\Teste07.genruntimeconfig.cache
+C:\Users\pithermansantos\Desktop\orientação a objetos\Teste07\obj\Debug\net7.0\ref\Teste07.dll
